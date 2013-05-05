@@ -1,6 +1,6 @@
 <?php
 
 //Dbmanager
-define('DBNAME', 'ares');
+define('DBNAME', 'fullcalendar');
 define('USER', 'root');
 define('PASSWORD', '');
